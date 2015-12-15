@@ -1,3 +1,3 @@
-﻿angular.module("homeIndexApp", [])
-	.controller("homeIndexCtrl", function($scope) {
-	});
+﻿//angular.module("homeIndexApp", [])
+//	.controller("homeIndexCtrl", function($scope) {
+//	});
