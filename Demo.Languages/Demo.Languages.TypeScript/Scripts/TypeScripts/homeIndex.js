@@ -2,8 +2,10 @@
 /// <reference path="../typings/angularjs/angular-route.d.ts" />
 (function () {
     "use strict";
-    var angular;
-    angular.module("homeIndexApp", ["ngRoute"])
-        .controller("homeIndexCtrl", function ($scope, $http) {
+    //var angular: any;
+    var app = angular.module("homeIndexApp", ["ngRoute"]);
+    app.controller("homeIndexCtrl", function ($scope, $http) {
+        alert("homeIndexCtrl");
     });
 })();
+//# sourceMappingURL=homeIndex.js.map
