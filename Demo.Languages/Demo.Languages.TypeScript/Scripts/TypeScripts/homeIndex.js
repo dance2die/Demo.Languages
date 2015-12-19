@@ -8,4 +8,5 @@
         alert("homeIndexCtrl");
     });
 })();
-//# sourceMappingURL=homeIndex.js.map
+//# sourceMappingURL=homeIndex.js.map 
+//# sourceMappingURL=homeindex.js.map
