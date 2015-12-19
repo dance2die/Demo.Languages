@@ -5,7 +5,9 @@
     //var angular: any;
     var app = angular.module("homeIndexApp", ["ngRoute"]);
     app.controller("homeIndexCtrl", function ($scope, $http) {
-        alert("homeIndexCtrl");
+        $scope.testAlert = function () {
+            alert("test alert in AngularJS within TypeScript file");
+        };
     });
 })();
 //# sourceMappingURL=homeIndex.js.map 
