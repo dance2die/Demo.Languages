@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\obj\Debug\Demo.Languages.TypeScript.csprojResolveAssemblyReference.cache
 C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\csc.exe
 C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -31,3 +32,38 @@ C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languag
 C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Mvc.xml
 C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\obj\Debug\Demo.Languages.TypeScript.dll
 C:\misc\sources\Repos\Demo.Languages2\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\obj\Debug\Demo.Languages.TypeScript.pdb
+=======
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\csc.exe
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\vbc.exe
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\VBCSCompiler.exe
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\Demo.Languages.TypeScript.dll.config
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\Demo.Languages.TypeScript.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\Demo.Languages.TypeScript.pdb
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Helpers.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Mvc.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Razor.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Webpages.Deployment.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Webpages.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Webpages.Razor.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Razor.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Webpages.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Webpages.Deployment.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Webpages.Razor.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Helpers.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\bin\System.Web.Mvc.xml
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\obj\Debug\Demo.Languages.TypeScript.csprojResolveAssemblyReference.cache
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\obj\Debug\Demo.Languages.TypeScript.dll
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.TypeScript\obj\Debug\Demo.Languages.TypeScript.pdb
+>>>>>>> refs/remotes/origin/master
