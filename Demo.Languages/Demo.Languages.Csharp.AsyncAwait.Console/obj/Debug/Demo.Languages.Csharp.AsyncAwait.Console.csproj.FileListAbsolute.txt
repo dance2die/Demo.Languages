@@ -1,0 +1,6 @@
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.Csharp.AsyncAwait.Console\bin\Debug\Demo.Languages.Csharp.AsyncAwait.Console.exe.config
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.Csharp.AsyncAwait.Console\bin\Debug\Demo.Languages.Csharp.AsyncAwait.Console.exe
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.Csharp.AsyncAwait.Console\bin\Debug\Demo.Languages.Csharp.AsyncAwait.Console.pdb
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.Csharp.AsyncAwait.Console\obj\Debug\Demo.Languages.Csharp.AsyncAwait.Console.csprojResolveAssemblyReference.cache
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.Csharp.AsyncAwait.Console\obj\Debug\Demo.Languages.Csharp.AsyncAwait.Console.exe
+C:\Users\skim\Source\Repos\Demo.Languages\Demo.Languages\Demo.Languages.Csharp.AsyncAwait.Console\obj\Debug\Demo.Languages.Csharp.AsyncAwait.Console.pdb
